@@ -13,7 +13,6 @@
   <img src="https://img.shields.io/badge/📍_İzmir,_Türkiye-0f2027?style=for-the-badge" alt="location"/>
   <img src="https://img.shields.io/badge/🎓_MSc_@_IYTE-203a43?style=for-the-badge" alt="iyte"/>
   <a href="mailto:mehmetalibeylikci@gmail.com"><img src="https://img.shields.io/badge/Gmail-2c9a6b?style=for-the-badge&logo=gmail&logoColor=white" alt="mail"/></a>
-  <img src="https://komarev.com/ghpvc/?username=MehmetaliBeylikci&style=for-the-badge&color=2c9a6b&label=PROFILE+VIEWS" alt="views"/>
 </p>
 
 ---
@@ -73,9 +72,6 @@ class MehmetaliAndacBeylikci:
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=MehmetaliBeylikci&hide_border=true&theme=transparent&ring=2c9a6b&fire=ff6b35&currStreakLabel=2c9a6b&sideLabels=8b949e&dates=8b949e&currStreakNum=8b949e&sideNums=8b949e" alt="streak"/>
-</p>
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=MehmetaliBeylikci&hide_border=true&bg_color=00000000&color=8b949e&line=2c9a6b&point=ff6b35&area=true&area_color=2c9a6b" alt="activity"/>
 </p>
 
 ---
