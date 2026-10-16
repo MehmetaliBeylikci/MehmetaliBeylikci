@@ -10,6 +10,7 @@
   <img src="https://img.shields.io/badge/Location-İzmir,_Türkiye-0f2027?style=flat-square" alt="Location"/>
   <img src="https://img.shields.io/badge/MSc-İzmir_Institute_of_Technology-203a43?style=flat-square" alt="MSc"/>
   <a href="mailto:mehmetalibeylikci@gmail.com"><img src="https://img.shields.io/badge/Email-mehmetalibeylikci@gmail.com-2c9a6b?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/sponsors/MehmetaliBeylikci"><img src="https://img.shields.io/badge/Sponsor-GitHub_Sponsors-ea4aaa?style=flat-square&logo=githubsponsors&logoColor=white" alt="Sponsor"/></a>
 </p>
 
 ---
@@ -65,6 +66,16 @@ profile = {
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=MehmetaliBeylikci&hide_border=true&theme=transparent&ring=2c9a6b&fire=2c9a6b&currStreakLabel=2c9a6b&sideLabels=8b949e&dates=8b949e&currStreakNum=8b949e&sideNums=8b949e" alt="Contribution streak"/>
+</p>
+
+---
+
+### Support My Work
+
+My research and open-source tools are developed as a graduate student without dedicated funding. Sponsorship helps cover compute and hosting costs and keeps this work open and freely available.
+
+<p align="center">
+  <a href="https://github.com/sponsors/MehmetaliBeylikci"><img src="https://img.shields.io/badge/Sponsor_on_GitHub-ea4aaa?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor on GitHub"/></a>
 </p>
 
 <p align="center">
